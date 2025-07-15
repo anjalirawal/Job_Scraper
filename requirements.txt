@@ -1,0 +1,14 @@
+selenium
+webdriver-manager
+pytest
+pytest-selenium
+pytest-html
+pytest-cov
+pytest-mock
+pytest-asyncio
+pytest-timeout
+pytest-xdist
+pandas
+openpyxl
+requests
+beautifulsoup4
