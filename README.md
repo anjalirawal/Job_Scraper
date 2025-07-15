@@ -5,7 +5,7 @@ A Python-based web scraper to automatically extract job postings from company ca
 ---
 
 ## 📂 Project Structure
-
+'''
 ├── company_careers_los_angeles.csv # Input: List of companies and their careers page URLs
 ├── job_scraped_results.csv # Output: Final job listings scraped
 ├── selenium_job_scraper.py # Selenium-based scraper script
@@ -14,3 +14,4 @@ A Python-based web scraper to automatically extract job postings from company ca
 ├── requirements.txt # Python dependencies
 ├── README.md # Project documentation
 └── .gitignore # Files to ignore in Git
+'''
